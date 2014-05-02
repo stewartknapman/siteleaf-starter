@@ -1,5 +1,5 @@
 {
-  "name": "designwindows.co.nz",
+  "name": "siteleaf_starter",
   "version": "0.0.1",
   "dependencies": {
     "grunt": "~0.4.4",
