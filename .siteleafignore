@@ -1,0 +1,9 @@
+.*
+README*
+Gemfile*
+Gruntfile*
+config.ru
+package.json
+bower.json
+bower_components/*
+src/*
